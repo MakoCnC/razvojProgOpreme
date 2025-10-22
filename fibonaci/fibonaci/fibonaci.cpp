@@ -21,7 +21,7 @@ int main() {
         }
         cout << next << " testtesttesttest"; 
         cout << "to je bilo ustvarjeno na branch dva";
-	//i fixed the issue
+	//i fixed the issue 1
     }
 
     cout << endl;
