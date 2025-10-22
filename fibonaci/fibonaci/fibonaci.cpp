@@ -20,7 +20,8 @@ int main() {
             second = next;
         }
         cout << next << " testtesttesttest"; 
-        cout << "to je bilo ustvarjeno na branch dva"; 
+        cout << "to je bilo ustvarjeno na branch dva";
+	//i fixed the issue
     }
 
     cout << endl;
