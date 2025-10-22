@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    //sprememba za pushat
     int n, first = 0, second = 1, next;
     //prva vrstica branch 1
     //druga vrstica branch 2
