@@ -3,8 +3,7 @@ using namespace std;
 
 int main() {
     int n, first = 0, second = 1, next;
-    //prva vrstica branch 1
-    //druga vrstica branch 2
+
     cout << "Enter the number of terms: ";
     cin >> n;
 
@@ -18,9 +17,7 @@ int main() {
             first = second;
             second = next;
         }
-        cout << next << " testtesttesttest"; 
-        cout << "to je bilo ustvarjeno na branch dva";
-	cout << "sprememba sprememba sprememba";
+        cout << next << " ";
     }
 
     cout << endl;
