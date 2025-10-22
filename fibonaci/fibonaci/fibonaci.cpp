@@ -3,8 +3,8 @@ using namespace std;
 
 int main() {
     int n, first = 0, second = 1, next;
-    //razlicni komentar na mainu
-    //razlicni komentar na mainu2
+    //prva vrstica branch 1
+    //druga vrstica branch 2
     cout << "Enter the number of terms: ";
     cin >> n;
 
