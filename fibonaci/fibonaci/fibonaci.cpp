@@ -17,7 +17,7 @@ int main() {
             first = second;
             second = next;
         }
-        cout << next << " " haleluja; 
+        cout << next << " testtesttesttest"; 
     }
 
     cout << endl;
